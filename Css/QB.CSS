@@ -1,0 +1,74 @@
+body{
+    background-image: url(../Images/QbImg.jpg);
+}
+header{
+    text-align: center;
+    font-weight: bold;
+    font-size: 45px;
+    margin-top: 50px;
+}
+.lack{
+    margin-left: 170px;
+    margin-top: 80px;
+    font-weight: bold;
+    font-size: 25px;
+}
+.lack-1{
+    margin-left: 510px;
+    font-weight: bold;
+    font-size: 25px;
+    margin-top: -168px;
+}
+.lack-2{
+    margin-left: 805px;
+    margin-top: -400px;
+    font-weight: bold;
+    font-size: 25px;
+}
+.abi{
+    margin-left: 155px;
+    margin-top: 0px;
+    font-size: 10px;
+}
+.abi li a{
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 25px;
+}
+.abi :hover{
+    background-color: black;
+    color: brown;
+}
+.abi-1 {
+    margin-left: 500px;
+    font-weight: bold;
+    font-size: 19px;
+}
+.abi-1 li a{
+    text-decoration: none;
+}
+.abi-1 :hover{
+    background-color: black;
+    color: brown;
+}
+.abi-2{
+    margin-left: 800px;
+    margin-top: 0px;
+    font-weight: bold;
+    font-size: 19px;
+}
+.abi-2 :hover{
+    background-color: black;
+    color: brown;
+}
+.abi-2 li a{
+        text-decoration: none;
+    }
+.moi {
+    text-align: center;
+    font-size: 50px;
+}
+
+
+    
+
