@@ -31,7 +31,7 @@ ul li{
         padding: 0px;
         margin: 0px;
         font-family: sans-serif;
-        background-image: url(../Images/home.jpg);
+        background-image: url(Images/home.jpg);
         page-break-after: url(container1;);
       }
       .books{
